@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Дорогой Дневник</string>
+    <string name="title_main">Мой Дневник</string>
+    <string name="empty_state_title">Пока нет записей</string>
+    <string name="empty_state_subtitle">Нажмите \"+\" чтобы создать первую</string>
+    <string name="hint_title">Заголовок</string>
+    <string name="hint_content">О чем я думал(а) сегодня...</string>
+    <string name="button_save">Сохранить</string>
+    <string name="button_edit">Редактировать</string>
+    <string name="button_delete">Удалить</string>
+    <string name="button_pick_image">Добавить изображение</string>
+    <string name="title_settings">Настройки</string>
+    <string name="settings_language">Язык</string>
+    <string name="language_russian">Русский</string>
+    <string name="language_english">English</string>
+    <string name="settings_theme">Тема</string>
+    <string name="theme_light">Светлая</string>
+    <string name="theme_dark">Темная</string>
+    <string name="menu_search">Поиск</string>
+    <string name="menu_settings">Настройки</string>
+</resources>
